@@ -63,7 +63,7 @@ const info = [
         'https://images.unsplash.com/photo-1619194617062-5a61b9c6a049?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60',
   },
   {
-    'name': 'Pawan Jagtap',
+    'name': 'Kaustubh',
     'message': 'Images by Unsplash',
     'time': '1:00 am',
     'profilePic':
